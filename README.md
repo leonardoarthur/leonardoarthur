@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello there! 👋 (Star Wars reference)
 
-<!--
-**leonardoarthur/leonardoarthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my home 🏠
+- 🌱 I’m currently learning Android and Kotlin
+- 👯 I’m looking to collaborate on my university
+- 🤔 I’m looking for help with learning more about code.
+- 💬 Ask me about sounds of keyboards 🛸
+- 📫 How to reach me: Linkedin and GitHub.
+- 😄 Pronouns: he/him
+- 🥤 Drink: Wather.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoarthur&show_icons=true&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoarthur&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+ https://img.shields.io/github/followers/{leoanrdoarthur}.svg?style=social&label=Follow&maxAge=2592000
+<div>
+
+- Make with ❤️
