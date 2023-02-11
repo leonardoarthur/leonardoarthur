@@ -9,12 +9,7 @@
 - 😄 Pronouns: he/him
 - 🥤 Drink: Wather.
 
-
-<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoarthur&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoarthur&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<div>
- https://img.shields.io/github/followers/{leoanrdoarthur}.svg?style=social&label=Follow&maxAge=2592000
-<div>
 
 - Make with ❤️
