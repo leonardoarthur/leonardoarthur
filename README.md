@@ -7,7 +7,7 @@
 - 💬 Ask me about sounds of keyboards 🛸
 - 📫 How to reach me: Linkedin and GitHub.
 - 😄 Pronouns: he/him
-- 🥤 Drink: Wather.
+- 🥤 Drink: Water.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoarthur&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoarthur&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
